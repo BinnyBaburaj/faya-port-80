@@ -16,7 +16,7 @@ Online Video Conference
 
 | Time                               | Session                           |
 |:-----------------------------------|:----------------------------------|
-| 3:00PM - 3:05PM    ``              | Introduction                      |
+| 3:00PM - 3:05PM                    | Introduction                      |
 | 3:05PM - 3:15PM                    | TechBytes                         | 
 | 3:15PM - 4:00PM                    | Polyglot programming - Praseed Pai|
 | 4:00PM - 4:25PM                    | Q&A                               | 
