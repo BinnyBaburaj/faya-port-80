@@ -1,6 +1,9 @@
 
 # ONLINE FAYA:80
 
+## Topic
+Polyglot programming - Praseed Pai
+
 ## Proposed Event Structure
 Online Video Conference
 
@@ -36,8 +39,5 @@ Online video conferencing (Yet to finalise the tool)
 12. 8X8 https://www.8x8.com/
  
 
-
-## Topic
-Polyglot programming - Praseed Pai
 
 
