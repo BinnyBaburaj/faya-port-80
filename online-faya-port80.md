@@ -8,7 +8,7 @@ Polyglot programming - Praseed Pai
 Online Video Conference
 
 ## Date
-  8th April 2019  
+  8th April 2020  
 ## Time
   3:00PM to 4:30PM (As our normal 5PM - 7PM would be busy hours for WFH Resources)
   
