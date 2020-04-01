@@ -4,7 +4,7 @@
 ## Topic
 Polyglot programming - Praseed Pai
 
-## Proposed Event Structure
+## Proposed Event Mode
 Online Video Conference
 
 ## Date
