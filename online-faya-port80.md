@@ -1,7 +1,9 @@
-#We can use this file to come up with the list of topics and suggestions for upcoming Online Faya:80
 
-# Proposed Event Structure
+# ONLINE FAYA:80
+
+## Proposed Event Structure
 Online Video Conference
+
 ## Date
   8th April 2019  
 ## Time
