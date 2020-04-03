@@ -1,8 +1,9 @@
 
-# ONLINE FAYA:80
+#   FREE Open Online Tech Talk Series
 
-## Topic
-Polyglot programming - Praseed Pai
+## Topic of the Series
+Programming skills that will survive the Pandemic
+Episode 1: Polyglot programming - Praseed Pai
 
 COVID 19 is upsetting everything possible. Nothing will be the same again. Industries around the world can be revived only if it embraces the tech-disruption on a scale the world has never seen before.
 
