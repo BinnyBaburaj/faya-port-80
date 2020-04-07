@@ -26,12 +26,12 @@ Online Video Conference
   
 ## Schedule 
 
-| Time                               | Session                           |
-|:-----------------------------------|:----------------------------------|
-| 3:00PM - 3:05PM                    | Introduction                      |
-| 3:05PM - 3:15PM                    | TechBytes                         | 
-| 3:15PM - 4:00PM                    | Polyglot programming - Praseed Pai|
-| 4:00PM - 4:25PM                    | Q&A                               | 
+| Time                               | Session                                          |
+|:-----------------------------------|:----------------------------------               |
+| 6:00PM - 6:05PM                    | Welcome and Techbytes                            |
+| 6:05PM - 6:15PM                    | Intro - Programming Skills that will survive the Pandemic|
+| 6:15PM - 7:45PM                    | Polyglot programming - Praseed Pai               |
+| 7:45PM - 8:00PM                    | Q&A                                              | 
 | 4:25PM - 4:30PM                    | Closing Notes                    |
   
 ## Communication Medium
