@@ -50,6 +50,20 @@ Online video conferencing (Yet to finalise the tool)
 11. Jit - https://meet.jit.si/
 12. 8X8 https://www.8x8.com/
  
+### Additional Resources
 
+1. https://learnxinyminutes.com/
+2. https://remoteindian.com/
+3. http://www.bin-co.com/blog/2008/03/python-hello-script/
+4. https://github.com/praseedpai
+5. https://hackerrank.com
+6. https://exercism.io
+7. https://en.wikipedia.org/wiki/Hilbert%27s_problems
+8. https://en.wikipedia.org/wiki/Alonzo_Church
+9. https://en.wikipedia.org/wiki/Kerala_School_of_Mathematics
+10. https://en.wikipedia.org/wiki/David_Hilbert
+11. https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs
 
+### Youtube Recording of the event
 
+Ep 1 : https://youtu.be/brwecMp2JNY
